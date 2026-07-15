@@ -19,6 +19,6 @@ F1-score      : 0.01711 ± 0.01002
 ---------------------------------------------------------------
 INTERPRETATION
 ---------------------------------------------------------------
-Randomizing the correspondence between images and class labels causes the classification performance to collapse towards chance level.\
+Randomizing the correspondence between images and class labels causes the classification performance to collapse towards chance level.
 
 This demonstrates that the CNN learns genuine image-label relationships rather than memorizing the training data.
