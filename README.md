@@ -1,6 +1,8 @@
 # Open-Circuit Fault Diagnosis in Active Front-End Converter using Lightweight LeNet-based Network
 
-A MATLAB-based deep learning framework for the diagnosis of multi-switch open-circuit faults (OCSFs) in three-phase Active Front-End (AFE) rectifiers using a lightweight convolutional neural network (CNN).
+Source Code: https://github.com/Sourabh-Ghosh/OCSF-Diagnosis
+
+A deep learning framework for the diagnosis of multi-switch open-circuit faults (OCSFs) in three-phase Active Front-End (AFE) rectifiers using a lightweight convolutional neural network (CNN).
 
 The framework provides a complete and reproducible pipeline for:
 
