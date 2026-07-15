@@ -1,4 +1,5 @@
-<img width="5570" height="2315" alt="AverageTrainingCurves" src="https://github.com/user-attachments/assets/36e5f47c-ef28-47ee-9160-60cb40fd42ef" /><img width="2090" height="1368" alt="NetworkArchitecture" src="https://github.com/user-attachments/assets/9e008057-4cad-441c-96a1-96080b9964b4" />
+
+<img width="2090" height="1368" alt="NetworkArchitecture" src="https://github.com/user-attachments/assets/9e008057-4cad-441c-96a1-96080b9964b4" />
 <img width="7856" height="4505" alt="CrossValidationSplit" src="https://github.com/user-attachments/assets/6c168e09-0761-4d4f-a02a-e2afe6121522" />
 
 <img width="6465" height="2209" alt="TrainingCurves" src="https://github.com/user-attachments/assets/b4bfb9a9-c6b4-427a-b724-ada994941af5" />
@@ -19,7 +20,7 @@
 
 <img width="6465" height="2209" alt="TrainingCurves" src="https://github.com/user-attachments/assets/58799196-41a5-4331-ac2f-e9be5e9ed65c" />
 <img width="4374" height="2954" alt="ROC" src="https://github.com/user-attachments/assets/66ff9be5-9388-4ddc-bb68-f42e4ab723d6" />
-<img width="4415" height="3261" alt="ConfusionMatrix" src="https://github.com/user-attachments/assets/749dc880-b9ae-4833-8202-f88c3f004f67" />
+<img width="4415" height="3261" alt="ConfusionMatrix" src="https://github.com/user-attachments/assets/b870c817-57ae-4bc3-934c-da3ee611a560" />
 
 <img width="5570" height="2315" alt="AverageTrainingCurves" src="https://github.com/user-attachments/assets/8b2aa873-d3bb-4648-8ea2-0ba8c7d34426" />
 <img width="4933" height="3261" alt="AverageConfusionMatrix" src="https://github.com/user-attachments/assets/21b4468b-6ce8-40d5-bddc-babffde4e524" />
