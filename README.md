@@ -170,7 +170,7 @@ before running the code.
 Open MATLAB and navigate to
 
 ```
-src/
+m_codes/
 ```
 
 Then simply execute
