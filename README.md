@@ -20,7 +20,7 @@ The framework provides a complete and reproducible pipeline for:
 ---
 
 <img width="945" height="362" alt="image" src="https://github.com/user-attachments/assets/a7c2ca3c-6cb6-4ef5-aaf2-1841ace10c3e" />
-
+Figure 1. (a) Proposed framework for multi-class OCSF diagnosis, (b) Evaluation of various DNN architectures, (c) 2DCNN-based architecture for multi-class OCSF diagnosis.
 
 
 # Repository Structure
