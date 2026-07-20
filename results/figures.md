@@ -1,5 +1,5 @@
 
-<img width="2090" height="1368" alt="NetworkArchitecture" src="https://github.com/user-attachments/assets/9e008057-4cad-441c-96a1-96080b9964b4" />
+
 <img width="7856" height="4505" alt="CrossValidationSplit" src="https://github.com/user-attachments/assets/6c168e09-0761-4d4f-a02a-e2afe6121522" />
 
 <img width="6465" height="2209" alt="TrainingCurves" src="https://github.com/user-attachments/assets/b4bfb9a9-c6b4-427a-b724-ada994941af5" />
